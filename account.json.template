@@ -1,0 +1,20 @@
+{
+  "as_of_date": "2017-08-20",
+  "balance_types": [
+    "CLOSING_LEDGER",
+    "OPENING_AVAILABLE",
+    "CLOSING_COLLECTED",
+    "CURRENT_AVAILABLE"
+  ],
+  "accounts": [
+    {
+      "account_number": "2000003398984"
+    },
+    {
+      "account_number": "2000019381231"
+    },
+    {
+      "account_number": "2000008274299"
+    }
+  ]
+}
